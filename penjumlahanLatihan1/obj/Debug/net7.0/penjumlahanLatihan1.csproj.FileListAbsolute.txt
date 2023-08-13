@@ -1,0 +1,15 @@
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\bin\Debug\net7.0\penjumlahanLatihan1.exe
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\bin\Debug\net7.0\penjumlahanLatihan1.deps.json
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\bin\Debug\net7.0\penjumlahanLatihan1.runtimeconfig.json
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\bin\Debug\net7.0\penjumlahanLatihan1.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\bin\Debug\net7.0\penjumlahanLatihan1.pdb
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\obj\Debug\net7.0\penjumlahanLatihan1.csproj.AssemblyReference.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\obj\Debug\net7.0\penjumlahanLatihan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\obj\Debug\net7.0\penjumlahanLatihan1.AssemblyInfoInputs.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\obj\Debug\net7.0\penjumlahanLatihan1.AssemblyInfo.cs
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\obj\Debug\net7.0\penjumlahanLatihan1.csproj.CoreCompileInputs.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\obj\Debug\net7.0\penjumlahanLatihan1.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\obj\Debug\net7.0\refint\penjumlahanLatihan1.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\obj\Debug\net7.0\penjumlahanLatihan1.pdb
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\obj\Debug\net7.0\penjumlahanLatihan1.genruntimeconfig.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\penjumlahanLatihan1\obj\Debug\net7.0\ref\penjumlahanLatihan1.dll

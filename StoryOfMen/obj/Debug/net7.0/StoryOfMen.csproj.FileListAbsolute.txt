@@ -1,0 +1,15 @@
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\bin\Debug\net7.0\StoryOfMen.exe
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\bin\Debug\net7.0\StoryOfMen.deps.json
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\bin\Debug\net7.0\StoryOfMen.runtimeconfig.json
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\bin\Debug\net7.0\StoryOfMen.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\bin\Debug\net7.0\StoryOfMen.pdb
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\obj\Debug\net7.0\StoryOfMen.csproj.AssemblyReference.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\obj\Debug\net7.0\StoryOfMen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\obj\Debug\net7.0\StoryOfMen.AssemblyInfoInputs.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\obj\Debug\net7.0\StoryOfMen.AssemblyInfo.cs
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\obj\Debug\net7.0\StoryOfMen.csproj.CoreCompileInputs.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\obj\Debug\net7.0\StoryOfMen.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\obj\Debug\net7.0\refint\StoryOfMen.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\obj\Debug\net7.0\StoryOfMen.pdb
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\obj\Debug\net7.0\StoryOfMen.genruntimeconfig.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\StoryOfMen\obj\Debug\net7.0\ref\StoryOfMen.dll

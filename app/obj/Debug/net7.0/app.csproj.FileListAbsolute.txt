@@ -1,0 +1,15 @@
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\bin\Debug\net7.0\app.exe
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\bin\Debug\net7.0\app.deps.json
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\bin\Debug\net7.0\app.runtimeconfig.json
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\bin\Debug\net7.0\app.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\bin\Debug\net7.0\app.pdb
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\obj\Debug\net7.0\app.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\obj\Debug\net7.0\refint\app.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\obj\Debug\net7.0\app.pdb
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\app\obj\Debug\net7.0\ref\app.dll

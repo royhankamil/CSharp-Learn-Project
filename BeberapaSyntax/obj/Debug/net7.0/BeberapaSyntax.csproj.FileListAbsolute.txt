@@ -1,0 +1,15 @@
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\bin\Debug\net7.0\BeberapaSyntax.exe
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\bin\Debug\net7.0\BeberapaSyntax.deps.json
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\bin\Debug\net7.0\BeberapaSyntax.runtimeconfig.json
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\bin\Debug\net7.0\BeberapaSyntax.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\bin\Debug\net7.0\BeberapaSyntax.pdb
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.csproj.AssemblyReference.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.AssemblyInfoInputs.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.AssemblyInfo.cs
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\refint\BeberapaSyntax.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.pdb
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.genruntimeconfig.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\ref\BeberapaSyntax.dll

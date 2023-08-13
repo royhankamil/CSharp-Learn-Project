@@ -1,0 +1,15 @@
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\bin\Debug\net7.0\simpleChatBot.exe
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\bin\Debug\net7.0\simpleChatBot.deps.json
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\bin\Debug\net7.0\simpleChatBot.runtimeconfig.json
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\bin\Debug\net7.0\simpleChatBot.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\bin\Debug\net7.0\simpleChatBot.pdb
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\obj\Debug\net7.0\simpleChatBot.csproj.AssemblyReference.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\obj\Debug\net7.0\simpleChatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\obj\Debug\net7.0\simpleChatBot.AssemblyInfoInputs.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\obj\Debug\net7.0\simpleChatBot.AssemblyInfo.cs
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\obj\Debug\net7.0\simpleChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\obj\Debug\net7.0\simpleChatBot.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\obj\Debug\net7.0\refint\simpleChatBot.dll
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\obj\Debug\net7.0\simpleChatBot.pdb
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\obj\Debug\net7.0\simpleChatBot.genruntimeconfig.cache
+C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\simpleChatBot\obj\Debug\net7.0\ref\simpleChatBot.dll
