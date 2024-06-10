@@ -10,10 +10,12 @@ namespace EncryptionExample
         static void Main(string[] args)
         {
             // Data JSON yang ingin dienkripsi
-            var data = new { Pesan = "Pesan rahasia yang ingin dienkripsi", star = 4 };
+            string data = "{ star : 12, star : 4, score : 5 }";
+            Console.WriteLine("\nhasil:\n" + Encrypt(data));
+        }
 
-            // Konversi data JSON ke string
-            string jsonString = JsonSerializer.Serialize(data);
+        static string Encrypt(string data)
+        {
 
             // Generate kunci enkripsi 256-bit (32 byte)
             byte[] key = new byte[32];
@@ -33,7 +35,7 @@ namespace EncryptionExample
             // Enkripsi data JSON, nonce, dan timestamp dengan AES-GCM
             using (AesGcm aesGcm = new AesGcm(key))
             {
-                var encryptedData = new { Data = jsonString, Timestamp = timestamp };
+                var encryptedData = new { Data = data, Timestamp = timestamp };
                 string encryptedJsonString = JsonSerializer.Serialize(encryptedData);
 
                 byte[] plaintextBytes = Encoding.UTF8.GetBytes(encryptedJsonString);
@@ -47,6 +49,8 @@ namespace EncryptionExample
                 Console.WriteLine("Nonce: " + Convert.ToBase64String(nonce));
                 Console.WriteLine("Ciphertext: " + Convert.ToBase64String(ciphertext));
                 Console.WriteLine("Tag: " + Convert.ToBase64String(tag));
+
+                return "{\"Key\" : \""+Convert.ToBase64String(key)+"\", \"Nonce\" : \""+Convert.ToBase64String(nonce)+"\", \"Ciphertext\" : \""+Convert.ToBase64String(ciphertext)+"\", \"Tag\" : \""+Convert.ToBase64String(tag)+"\"}";
             }
         }
     }
