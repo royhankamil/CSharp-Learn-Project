@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "liTvNr+CzsJoX71Kdvk9hFpkpoeYVhMXDiVZTVCYHid09BfJkpWgiltgYgUZvxXQZRO58Vvd5nbWdPpY4HhNXQ==",
+  "dgSpecHash": "ns160tp1y5z7rmbYgWvUdPadTWGwxyq8xvElEyjR1D2mWXyYq018CKLgWHCRqafD3Le2LNolHd0Tej1deYsIcQ==",
   "success": true,
-  "projectFilePath": "D:\\ProgrammingProject\\CSharp-Learn-Project\\BeberapaSyntax\\BeberapaSyntax.csproj",
+  "projectFilePath": "D:\\ProgrammingProject\\CSharp-Learn-Project\\encrypt_with_timestamp\\BeberapaSyntax.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",

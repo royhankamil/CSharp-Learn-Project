@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProgrammingProject\\CSharp-Learn-Project\\BeberapaSyntax\\BeberapaSyntax.csproj": {}
+    "D:\\ProgrammingProject\\CSharp-Learn-Project\\encrypt_with_timestamp\\BeberapaSyntax.csproj": {}
   },
   "projects": {
-    "D:\\ProgrammingProject\\CSharp-Learn-Project\\BeberapaSyntax\\BeberapaSyntax.csproj": {
+    "D:\\ProgrammingProject\\CSharp-Learn-Project\\encrypt_with_timestamp\\BeberapaSyntax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProgrammingProject\\CSharp-Learn-Project\\BeberapaSyntax\\BeberapaSyntax.csproj",
+        "projectUniqueName": "D:\\ProgrammingProject\\CSharp-Learn-Project\\encrypt_with_timestamp\\BeberapaSyntax.csproj",
         "projectName": "BeberapaSyntax",
-        "projectPath": "D:\\ProgrammingProject\\CSharp-Learn-Project\\BeberapaSyntax\\BeberapaSyntax.csproj",
+        "projectPath": "D:\\ProgrammingProject\\CSharp-Learn-Project\\encrypt_with_timestamp\\BeberapaSyntax.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\ProgrammingProject\\CSharp-Learn-Project\\BeberapaSyntax\\obj\\",
+        "outputPath": "D:\\ProgrammingProject\\CSharp-Learn-Project\\encrypt_with_timestamp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

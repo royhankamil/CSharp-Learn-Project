@@ -13,3 +13,18 @@ C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaS
 C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.pdb
 C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.genruntimeconfig.cache
 C:\Users\Rizal\Documents\Rekayasa Perangkat Lunak\projek diluar DDK\C#\BeberapaSyntax\obj\Debug\net7.0\ref\BeberapaSyntax.dll
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\bin\Debug\net7.0\BeberapaSyntax.exe
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\bin\Debug\net7.0\BeberapaSyntax.deps.json
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\bin\Debug\net7.0\BeberapaSyntax.runtimeconfig.json
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\bin\Debug\net7.0\BeberapaSyntax.dll
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\bin\Debug\net7.0\BeberapaSyntax.pdb
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.AssemblyInfoInputs.cache
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.AssemblyInfo.cs
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.csproj.CoreCompileInputs.cache
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.sourcelink.json
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.dll
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\obj\Debug\net7.0\refint\BeberapaSyntax.dll
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.pdb
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\obj\Debug\net7.0\BeberapaSyntax.genruntimeconfig.cache
+D:\ProgrammingProject\CSharp-Learn-Project\BeberapaSyntax\obj\Debug\net7.0\ref\BeberapaSyntax.dll
